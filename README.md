@@ -1,4 +1,12 @@
-# S-L Project Template
+# DS4100 - Information in Visualizations Final Project
+
+## Project Summary
+
+For this project we were tasked with making an interactive vizualization for the Massachusetts Sustainable Business Network, an organization that focuses on creating a sustainable economy through supporting small, local business initiatives. We decided on making a visualization that combines a Masschusetts map divided by zipcode, along with a treemap showing business type and a table with individual business information. The map of Massachusetts shows where members are located, and all three visualizations can be used to filter each other. Please visit the link below to see the visualization, watch the demo, and test it out yourself while learning a little more about the Massachusetts Sustainable Business Network!
+
+Link to Github Pages: https://neu-ds-4200-s20.github.io/s-l-project-sbn4/
+
+# Initial Project Instructions and Setup: S-L Project Template
 
 This template will help you get started with your project. Please look through all these materials so you know how to organize your project.
 
